@@ -1,5 +1,5 @@
 ## Hi there 👋,
-Welcome to the PyPSA meets Earth initiative, an independent global research and development initiative which aim is to provide cutting-edge energy modeling tool for any country in the world.
+Welcome to the PyPSA meets Earth initiative, an independent global research and development initiative which aims to provide cutting-edge energy modeling tool for any country in the world.
 
 🌈 We are maintaining the following projects
 - [PyPSA-Earth](https://github.com/pypsa-meets-earth/pypsa-earth) provides a way to build a high-resolution a power or sector-coupled models of any country, region or continent focusing at the transmission level
