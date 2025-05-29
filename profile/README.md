@@ -11,7 +11,7 @@ Welcome to the PyPSA meets Earth initiative, an independent global research and 
 ❤️ PyPSA-Earth relies on [PyPSA ecosystem](https://github.com/pypsa) which provides tools to prepare data on renewable energy potentials, installed capacities, technologies costs as well as facilitate interfacing a model with a solver.
 
 ⭐ We are collaborating with following projects which can make modelers' life easier:
-- [Visualization toolkit](https://github.com/ben10dynartio/osm-power-grid-map-analysis) to quickly get insights inot OSM-extracted power grid datausing maps and graph analysis
+- [Visualization toolkit](https://github.com/ben10dynartio/osm-power-grid-map-analysis) to quickly get insights into OSM-extracted power grid datausing maps and graph analysis
 - [Energy-climate cookbook](https://github.com/matteodefelice/energy-climate-cookbook) provides an overview of educational resources relevant for energy modelers and gives a hand-on introduction into a using climate data in energy modeling
 
 🙋‍♀️ Join our chat and voice exchange platform on [Discord](https://discord.gg/AnuJBk23FU) to get in contact with our global developers and users community
