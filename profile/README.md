@@ -8,7 +8,7 @@ Welcome to the PyPSA meets Earth initiative, an independent global research and 
 - [Earth-OSM](https://github.com/pypsa-meets-earth/earth-osm) is a package for extracting power infrastructure data from OpenStreetMap for any region of interest in a flexible and customizable way
 - [PyPSA-Earth-Status](https://github.com/pypsa-meets-earth/pypsa-earth-status) intends to track the quality of PyPSA-Earth-based energy models by country, and coordinating the global validation efforts
 
-❤️ PyPSA-Earth relays on [PyPSA ecosystem](https://github.com/pypsa) which provides tools to prepare data on renewable energy potentials, installed capacities, technologies costs as well as facilitate interfacing a model with a solver.
+❤️ PyPSA-Earth relies on [PyPSA ecosystem](https://github.com/pypsa) which provides tools to prepare data on renewable energy potentials, installed capacities, technologies costs as well as facilitate interfacing a model with a solver.
 
 ⭐ We are collaborating with following projects which can make modelers' life easier:
 - [Visualization toolkit](https://github.com/ben10dynartio/osm-power-grid-map-analysis) to quickly get insights inot OSM-extracted power grid datausing maps and graph analysis
