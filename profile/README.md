@@ -14,6 +14,6 @@ Welcome to the PyPSA meets Earth initiative, an independent global research and 
 
 ⭐ Referenced initiatives:
 - [Awesome Electrical Grid Mapping](https://github.com/open-energy-transition/Awesome-Electrical-Grid-Mapping) is a collection of reference sources of power grids worldwide including reference datasets on the transmission capacity
-- [MapYouGrid](https://mapyourgrid.org/) is the global mapping initiative which empowers individuals, communities and nations around the world to map the electrical grid. It can help you to improve quality of the power grid data in your region of interest
+- [MapYourGrid](https://mapyourgrid.org/) is the global mapping initiative which empowers individuals, communities and nations around the world to map the electrical grid. It can help you to improve quality of the power grid data in your region of interest
 - [Awesome Electricity Demand](https://github.com/open-energy-transition/Awesome-Electricity-Demand) contains a curated collection of links to hourly or sub-hourly electricity demand data worldwide
 - [Energy-climate cookbook](https://github.com/matteodefelice/energy-climate-cookbook) provides an overview of educational resources relevant for energy modelers and gives a hand-on introduction into a using climate data in energy modeling
